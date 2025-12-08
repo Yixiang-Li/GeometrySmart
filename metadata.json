@@ -1,0 +1,5 @@
+{
+  "name": "Geometry Smart",
+  "description": "A high-fidelity academic prototype for visualizing and solving geometry problems using AI and 3D rendering.",
+  "requestFramePermissions": []
+}
