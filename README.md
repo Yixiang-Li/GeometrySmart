@@ -11,11 +11,11 @@
 
 ---
 
-# Run and deploy your AI Studio app
+# Run and deploy  AI Studio app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run the app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1TMjLcIJH86Ye_TDbbrFBNVdWZxo56g2B
+View app in AI Studio: https://ai.studio/apps/drive/1TMjLcIJH86Ye_TDbbrFBNVdWZxo56g2B
 
 ## Run Locally
 
