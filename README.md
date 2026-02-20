@@ -7,7 +7,7 @@
 
 *(The following infographic details the research, UX/UI design, and technical architecture of Geometry Smart.)*
 
-![Geometry Smart Portfolio Presentation](./Geometry Smart.jpg)
+![Geometry Smart Portfolio Presentation](./GeometrySmart.jpg)
 
 ---
 
